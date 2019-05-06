@@ -1,8 +1,13 @@
 
-# Google (What is this?)
+# Google Account Creation Tutorial
 
-> THIS WAS FOUND IN AN UNRELATED DOCUMENT IN A USERS DOCUMENTATION
+Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning. Here at cloudmesh, we develop services through providers to support your utilization of many of these products.
 
+* **Google Compute Engine** delivers virtual machines running in Google's innovative data centers and worldwide fiber network. Compute Engine's tooling and workflow support enable scaling from single instances to global, load-balanced cloud computing. Compute Engine's VMs boot quickly, come with high-performance persistent and local disk options, and deliver consistent performance. Our virtual servers are available in many configurations, including predefined sizes, and options to create Custom Machine Types optimized for your specific needs. Flexible pricing and automatic sustained use discounts make Compute Engine the leader in price/performance.
+
+This page is a step-by-step guide on how to create an Google account and then service account through the Google webpage.
+
+* ***Create Google Account*** * Use the following link provided by google to create a free google account. This account will provide you $300 in credits to use google cloud. https://support.google.com/accounts/answer/27441?hl=en
 
 * `client_secret.json` 
 * `google-drive-credentials.json`  
